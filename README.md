@@ -1,7 +1,7 @@
 #  Guilherme Aquino 👨🏾‍💻
 | ` Engenheiro de Software ` |
 ` Pós-Graduado em Gestão de Risco e Cibersegurança ` 
-| ` Estudante de Programação ` |
+| ` Estudante de Programação `
 
  Tenho 29 anos, técnico de informática na UAI de Ipatinga, apaixonado por tecnologia e desafios. Atualmente, estou me aprofundando em programação para ingressar no mercado de desenvolvimento, buscando constantemente soluções inovadoras e eficazes para problemas complexos, com foco em excelência e evolução contínua.
 <br><br>
@@ -23,8 +23,20 @@
  
 ## 📊 Estatísticas
 
-<div align="center">
-  <a href="https://github.com/GuilhermeAquino01">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeAquino01&show_icons=true&&locale=pt-br&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeAquino011&layout=compact&&locale=pt-br&langs_count=7&theme=dracula"/>
-</div>
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=GuilhermeAquino01&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeAquino01&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p>
